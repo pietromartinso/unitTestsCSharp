@@ -8,15 +8,14 @@ namespace Shared.Project
 {
     public static class Helper
     {
-        public static bool VerificaIdadeDeRisco(int idade)
+        public static bool IsRightKeyword(string word)
         {
-            if (idade >= 18) return true;
+            if (word == "lol") return true;
             else return false;
         }
-
-        public static bool VerificaNomeDeRisco(string name)
+        public static bool IsOfAge(int age)
         {
-            if (name == "corona") return false;
+            if (age < 18) return false;
             else return true;
         }
     }

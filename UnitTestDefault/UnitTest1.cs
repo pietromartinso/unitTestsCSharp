@@ -15,28 +15,48 @@ namespace UnitTestDefault
         }
 
         [TestMethod]
-        public void VerificaIdadeDeRisco_Idade18Anos_ResultadoTrue()
+        public void TestIsRightKeyword_WordLol_ResultTrue()
         {
-            int idade = 18;
-            bool resultado = Helper.VerificaIdadeDeRisco(idade);
+            string key = "lol";
+            bool resultado = Helper.IsRightKeyword(key);
             Assert.IsTrue(resultado);
         }
 
         [TestMethod]
-        public void VerificaIdadeDeRisco_Idade15Anos_ResultadoFalse()
+        public void TestIsRightKeyword_WordTryHard_ResultFalse()
         {
-            int idade = 15;
-            bool resultado = Helper.VerificaIdadeDeRisco(idade);
+            string key = "try hard";
+            bool resultado = Helper.IsRightKeyword(key);
             Assert.IsFalse(resultado);
         }
 
         [TestMethod]
-        public void TestarNomeRisco()
+        public void IsOfAge_Age18_ResultTrue()
         {
-            string nome = "thiago";
-            bool resultado = Helper.VerificaNomeDeRisco(nome);
-            Assert.IsTrue(resultado);
+            int age = 18;
+            bool result = Helper.IsOfAge(age);
+            Assert.IsTrue(result);
+        }
 
+        [TestMethod]
+        public void IsOfAge_Age18_ResultFalse()
+        {
+            int age = 15;
+            bool result = Helper.IsOfAge(age);
+            Assert.IsFalse(result);
+        }
+
+        [TestMethod]
+        [DataRow(20)]
+        [DataRow(30)]
+        [DataRow(40)]
+        [DataRow(50)]
+        [DataRow(60)]
+        [DataRow(70)]
+        public void IsOfAge(int age)
+        {
+            bool result = Helper.IsOfAge(age);
+            Assert.IsTrue(result);
         }
     }
 }

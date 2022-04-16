@@ -1,0 +1,6 @@
+C:\Users\Pietro\source\repos\Shared.Project\Shared.Project\bin\Debug\Shared.Project.dll
+C:\Users\Pietro\source\repos\Shared.Project\Shared.Project\bin\Debug\Shared.Project.pdb
+C:\Users\Pietro\source\repos\Shared.Project\Shared.Project\obj\Debug\Shared.Project.csproj.AssemblyReference.cache
+C:\Users\Pietro\source\repos\Shared.Project\Shared.Project\obj\Debug\Shared.Project.csproj.CoreCompileInputs.cache
+C:\Users\Pietro\source\repos\Shared.Project\Shared.Project\obj\Debug\Shared.Project.dll
+C:\Users\Pietro\source\repos\Shared.Project\Shared.Project\obj\Debug\Shared.Project.pdb

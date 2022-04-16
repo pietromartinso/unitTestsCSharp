@@ -1,0 +1,17 @@
+C:\Users\Pietro\source\repos\Shared.Project\UnitTestDefault\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pietro\source\repos\Shared.Project\UnitTestDefault\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pietro\source\repos\Shared.Project\UnitTestDefault\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pietro\source\repos\Shared.Project\UnitTestDefault\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Pietro\source\repos\Shared.Project\UnitTestDefault\bin\Debug\UnitTestDefault.dll
+C:\Users\Pietro\source\repos\Shared.Project\UnitTestDefault\bin\Debug\UnitTestDefault.pdb
+C:\Users\Pietro\source\repos\Shared.Project\UnitTestDefault\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Pietro\source\repos\Shared.Project\UnitTestDefault\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Pietro\source\repos\Shared.Project\UnitTestDefault\bin\Debug\Shared.Project.dll
+C:\Users\Pietro\source\repos\Shared.Project\UnitTestDefault\bin\Debug\Shared.Project.pdb
+C:\Users\Pietro\source\repos\Shared.Project\UnitTestDefault\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Pietro\source\repos\Shared.Project\UnitTestDefault\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Pietro\source\repos\Shared.Project\UnitTestDefault\obj\Debug\UnitTestDefault.csproj.AssemblyReference.cache
+C:\Users\Pietro\source\repos\Shared.Project\UnitTestDefault\obj\Debug\UnitTestDefault.csproj.CoreCompileInputs.cache
+C:\Users\Pietro\source\repos\Shared.Project\UnitTestDefault\obj\Debug\UnitTestDefault.csproj.CopyComplete
+C:\Users\Pietro\source\repos\Shared.Project\UnitTestDefault\obj\Debug\UnitTestDefault.dll
+C:\Users\Pietro\source\repos\Shared.Project\UnitTestDefault\obj\Debug\UnitTestDefault.pdb
